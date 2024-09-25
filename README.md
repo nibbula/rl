@@ -1,3 +1,5 @@
+# Moved to https://codeberg.org/nibbula/yew/src/branch/master/rl
+
 This may one day be a line edtior.
 It's better than nothing, but has a lot of problems.
 
